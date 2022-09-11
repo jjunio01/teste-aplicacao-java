@@ -2,12 +2,14 @@ C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\ado\conta\
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\conta\teste\ContaCrediarioTest.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\conta\MovimentoCrediarioDebito.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\ado\conta\InterfaceRepositorioContaCrediario.java
+C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\contaCrediario\teste\ContaCrediarioEspecialTest.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\cliente\teste\CpfTest.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\conta\ContaCrediario.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\ado\conta\RepositorioContaCrediario.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\conta\IdentificadorContaCrediario.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\ado\cliente\InterfaceRepositorioCliente.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\conta\ControladorContaCrediario.java
+C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\ado\conta\teste\RepositorioMovimentoCrediarioTest.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\conta\MovimentoCrediarioCredito.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\conta\ControladorMovimentoCrediario.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\cliente\Cliente.java
@@ -22,5 +24,7 @@ C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\cliente\Co
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\cliente\teste\ClienteTest.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\conta\MovimentoCrediario.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\ado\cliente\RepositorioCliente.java
+C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\ado\conta\teste\RepositorioContaCrediarioTest.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\cliente\Cpf.java
+C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\classesGerais\teste\RepositorioRegistroTest.java
 C:\Users\jjuni\Documents\Testes\ToTest\ToTest\src\com\acme\credvarejo\classesGerais\Repositorios.java
